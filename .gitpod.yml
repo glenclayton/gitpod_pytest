@@ -1,6 +1,8 @@
 
 
 
+image: gitpod/workspace-python-3.12
+
 tasks:
   - init: python3 -m pip install -r requirements.txt
   
